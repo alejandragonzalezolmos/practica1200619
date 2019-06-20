@@ -1,0 +1,8 @@
+body
+{
+background-image: url("imagen.jpg");
+background-attachment: fixed; /* El fondo queda fijo*/
+background-repeat: no-repeat; /* El fondo no se repite */
+background-position: top right; /* El fondo se coloca encima a la
+derecha */
+}
